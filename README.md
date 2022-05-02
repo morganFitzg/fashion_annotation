@@ -51,7 +51,7 @@ Finally, there are limitations to this model that could be addressed with a more
 
 The model is ultimately used to annotate fashion images from Instagram posts.  These images are collected using the Apify API to target fashion influencer hashtags.  After making annotations with the model, metadata and results are uploaded into a Google Cloud MySQL database.  A report was produced in Google Data Studio to show trend data. Below is a snapshot of the report.
 
-<img src="Instagram_Color_and_Pattern_Trends.png" title="Data Studio Report" />
+<img src="Dashboard.png" title="Data Studio Report" />
 
 ## Conclusions
 
